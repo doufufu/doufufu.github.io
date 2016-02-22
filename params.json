@@ -1,1 +1,1 @@
-{"name":"Doufufu.GitHub.io","tagline":"blog","body":"### Hello, welcome to doufu's GitHub Pages.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Doufufu.GitHub.io","tagline":"git报错 error: cannot stat ‘'web/js': Permission denied","body":"切换分支时报错：\r\n`js'- Permission denied`\r\n解决方法：退出编辑器、浏览器、资源管理器等，然后再切换就可以了。","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
